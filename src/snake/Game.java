@@ -60,7 +60,7 @@ public class Game extends JPanel implements ActionListener, KeyListener {
 
 	@Override
 	public void keyPressed(KeyEvent e) {
-//		snake.move(e.getKeyCode());
+		// snake.move(e.getKeyCode());
 	}
 
 	@Override
